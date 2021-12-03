@@ -7,3 +7,102 @@ algo
 system design
 LP
 
+Java, Microservices, Springboot
+
+//java interview questions
+
+1.What are the different features of java?
+2.Is Java is pure object-oriented programming?
+3.different features of object-oriented programming?
+4.What is polymorphism?
+5.how many ways to achieve overloading?
+6.What is the relationship between a constructor and a new keyword.
+7. Why is string class immutable?
+8. Difference between Exceptions and errors.
+9.How many types of Exceptions.
+10.what is the collection.
+11.Parent interface in the collection.
+12.Why Iterable Interface is not in Collection Hierarchy
+13.Why map is not a pure collection?
+14.How to put method work in hashmap?
+15.Spring Stereotype Annotations
+19.How method in rest service.
+20.Diffrence between and string and string builder
+21. What is Spring - AOP (Aspect Oriented Programming)
+22. Autowire
+23. What is inheritance
+24. What is difference between abstraction and encapsulation
+25. What is difference between is a relationship and has a relationship
+26. How do u make class immutable
+27. Difference between hash map and hash set
+
+16. What is devtool in spring?
+17. What are the advantages of spring boot?
+18. what is a spring boot starter.
+28. What is auto wiring
+29. Hash code and equals method difference
+30. What are the advantage of spring boot
+
+1. What is the difference between Java and J2EE
+2. What is the difference between Spring and Springboot?
+3. What is the difference between Postgres SQL & Oracle SQL?
+4. What is the difference between gradle & maven?
+6. What do you understand by OOPs?
+7. What is encapsulation used for?
+8. What do we achieve by hiding data?
+9. What is runtime/compile time polymorphism?
+10. What is atomic integer?
+11. What is transient?
+12. What is static?
+13. What is volatile?
+14. What is synchronisation?
+15. Difference between Array list & Link list?
+16. Cyclic dependency in spring?
+17. What is dependency injection?
+18. What are the different ways to achieve DI in code in spring?
+19. Have you heard about setter injectection & getter injection 
+
+What do you mean by Agile Execution and how it is different from waterfall execution?
+What type of Microservices you have designed?
+How Microservices based architecture is different from the REST based architecture?
+Runtime polymorphism 
+What is encapsulation 
+What is method overriding?
+What is the basic different between interface & abstract class?
+Interface1 & 2 - both have method test (). You have one class which implement both the interfaces. How can I use test () method in same class?
+What is CTE (Common Table Expression)?
+How to copy entire table to new table?
+Dirty read. There is no primary key 
+diff between full outerjoin and just join
+Q:SOAP and REST
+ SOAP is a Protocol or architecture pattern? A: Protocol
+ Which message format does SOAP uses? A: XML
+ 
+ REST is a protocol or architectural pattern? A: Architectural Patern
+ Which message format does REST uses? A: JSON
+Q: (OOPS Question) In a Parent-Child Relationship, if create object of child class then whose constructor will be called first?Parent or Child?
+A: Parent Class constructor will be called first.
+
+
+Difference between abstract classes and interfaces
+Difference between list, hash set and hash map
+What happens when we declare a list as final
+The flow of a spring boot application
+Lambda expressions, singletons, functional interfaces
+Benefits of using angular
+When to use Mysql and when to use mongo DB
+Diffrence sql and nosql
+Difference between client-side and server-side rendering
+How to prevent hoisting in javascript
+Features of node js
+Features of spring-boot
+Features of spring
+Difference between spring and spring boot
+
+1) Difference in JDK, JVM, JRE
+2) Why String is immutable
+3) How to store object as key in Hashtable
+4) Difference in Inner join and outer join
+6) Required Springboot configuration 
+7) Basics of Cloud Service
+8) DB used for projects
