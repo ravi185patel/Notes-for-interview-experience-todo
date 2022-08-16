@@ -98,3 +98,27 @@ Difference between spring and spring boot
 6) Required Springboot configuration 
 7) Basics of Cloud Service
 8) DB used for projects
+
+
+
+Important logic interview questions
+1] 
+Integer in=10,out=10
+in==out is false or true ?
+Integer in=1000,out=10000
+in==out is false or true ?
+
+2] what happen when only equals method override in class which can be use as key
+same when only hashcode overridde ?
+when both are not override ?
+
+3] why no which is used to multiply/divided  hashcode should be prime ?
+
+4] if hashcode and equals method not override 
+hashmap.put<new Employee(1,"xyz"),1);
+hashmap.put<new Employee(1,"xyz"),2);
+what will be size of hashmap ?
+
+5] How hashset work ?(internal working)
+
+6] what is syntax of euqals and hashcode method ?
