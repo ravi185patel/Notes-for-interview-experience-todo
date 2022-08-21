@@ -122,3 +122,110 @@ what will be size of hashmap ?
 5] How hashset work ?(internal working)
 
 6] what is syntax of euqals and hashcode method ?
+
+
+===========================================
+//java questions
+Abstract vs encapsulation vs interface.
+Real life example where abstract or interface use.
+Method overridiing vs overloading with example(real life).
+Method overriding rules.
+how method get hide in java.
+Can i override implement method in parent with abstract method in child class.
+
+---------------------------------------------------
+what will be output
+parent{
+
+public void getName(String name){}
+public void getName(Object name){}
+}
+
+getName(null) -> call which method ?
+do we get any issue or it will execute fine ?
+---------------------------------------------------
+
+can i overload final method in java ?
+
+what are marker interface in java and what is use of marker interface ?
+
+------
+create immutable class
+
+why immutable class and it's properties are final ?
+how to prevent immutability if immutable class have mutable object as refrence ?
+how to prevent immutability if immutable class have list of mutable object as refrence ?
+how to prevent immutability if immutable class have dependecy chain ?
+how to prevent class to being clone if it had implement cloneable interface ?
+Ex employee have address 
+
+
+---------------------
+
+final List<Sring> lst=new ArrayList<>();
+lst.add("xyz"); -- is it work or not ?
+why ?
+
+final List<String> imm=Collections.unmodifiableList(lst);
+imm.add("xyz");-- is it work ?
+why ?
+
+
+
+------------ Collections ------------
+
+parent class of all collections ?
+
+internal working of
+HashSet,TreeMap,HashMap,ConcurrentHashMap,CopyOrArrayList
+
+what happen when only equals method override in class which can be use as key
+same when only hashcode overridde ?
+when both are not override ?
+
+why no which is used to multiply/divided  hashcode should be prime ?
+
+if hashcode and equals method not override 
+hashmap.put<new Employee(1,"xyz"),1);
+hashmap.put<new Employee(1,"xyz"),2);
+what will be size of hashmap ?
+
+what is syntax of euqals and hashcode method ?
+
+
+what will be the output?
+lst.add(0,10);
+lst.set(0,-1);
+
+
+what is Failsafe and failfast ?
+
+Thread safe collections
+CopyOrWriteArraySet,CopyOrWriteArrayList,ConcurrentHashMap,SynchronizedList,SynchronizedSet,SynchronizedMap
+Vectore,HashTable
+
+what locking used in concurrentHashMap ?
+
+Collections which are concurrent Modification safe.
+CopyOrWriteArraySet,CopyOrWriteArrayList,ConcurrentHashMap
+
+
+--------------------- 
+what is executor framwork ?
+how many and their internal working ?
+How 
+
+
+------------ patterns ---------
+what is Solid Pattern ?
+what patterns do you know and explain with life example or where it used in java?
+
+
+write singleton class ?
+why two looking required ?
+what is half backed object in singleton ?
+why Object is static and voletile ?
+
+
+
+
